@@ -14,8 +14,8 @@ item_list = [
             "name": "Find UID"
         },
         {
-            "event": 'Sắp có',
-            "url": endpoint + '/info?id=100004253741257',
+            "event": 'New',
+            "url": endpoint + '/getinfouser?uid=100004253741257',
             "name": "Get Info"
         },
         {
